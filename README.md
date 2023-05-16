@@ -1,4 +1,4 @@
-
+<img widght=100% src="https://github.com/ksilva-kwn/MicrosoftBuild/blob/main/Captura%20de%20tela%202023-05-16%20092815.png"/>
 
 
 
@@ -6,7 +6,6 @@ Complete um desafio para ganhar um voucher com 100% de desconto. Aproveite para 
 
 🚀 Não perca essa oportunidade de aprimorar suas habilidades na nuvem da Microsoft. Os exames disponíveis são:
 
-##
 
 🔹 AI-900: Fundamentos de IA no Microsoft Azure
 
@@ -24,7 +23,7 @@ Complete um desafio para ganhar um voucher com 100% de desconto. Aproveite para 
 
 ##
 
-📅 O desafio começa no dia 23/05/2023 e termina em 20/06/2023. Então marque essas datas no seu calendário e prepare-se para participar! 🗓️
+📅 O desafio começa no dia 23/05/2023 e termina em 20/06/2023. Então marque essas datas no seu calendário e prepare-se para participar!
 
 
 
